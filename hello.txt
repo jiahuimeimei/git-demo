@@ -13,13 +13,5 @@ hello  atweierzi!! hello git !!
 hello  atweierzi!! hello git !!
 hello  atweierzi!! hello git !!
 hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
-hello  atweierzi!! hello git !!
+hello  atweierzi!! hello git !! 
+hello  atweierzi!! hello git !! hot-fix
